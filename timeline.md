@@ -1,0 +1,1 @@
+10/9/22 - Second meeting (planning for frontend/backend, first design model, and what to research)
